@@ -1,0 +1,44 @@
+[
+    {
+        "name": "headphones",
+        "id": 1,
+        "price": 15,
+        "categoryId": 1,
+        "image": "/headphones.jpg"
+    },
+    {
+        "name": "microfono",
+        "id": 2,
+        "price": 25,
+        "categoryId": 1,
+        "image": "/microfono.jpg"
+    },
+    {
+        "name": "monitor",
+        "id": 3,
+        "price": 35,
+        "categoryId": 1,
+        "image": "/monitor.jpg"
+    },
+    {
+        "name": "mouse",
+        "id": 4,
+        "price": 45,
+        "categoryId": 2,
+        "image": "/mouse.jpg"
+    },
+    {
+        "name": "parlantes",
+        "id": 5,
+        "price": 55,
+        "categoryId": 2,
+        "image": "/parlantes.jpg"
+    },
+    {
+        "name": "silla",
+        "id": 6,
+        "price": 65,
+        "categoryId": 2,
+        "image": "/silla.webp"
+    }
+]

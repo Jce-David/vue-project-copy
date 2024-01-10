@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Oficina",
+        "id": 1,
+        "description": "Producto para tu oficina"
+      },
+      {
+        "name": "Computadora",
+        "id": 2,
+        "description": "Accesorios para tu computadora"
+      }
+]
